@@ -1,2 +1,2 @@
 # ScheduleMe
-An application made in Spring for scheduling appointments.
+Made for IT355.
